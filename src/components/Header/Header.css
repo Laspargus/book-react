@@ -1,0 +1,12 @@
+.intro {
+  background-image: url("../../images/bg_book_small.jpg");
+  background-position: center;
+  height: 600px;
+}
+
+.text-intro {
+  padding-top: 80px;
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+}
